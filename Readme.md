@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BC83F7&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Computer+Science+Student+;I'm+a+Full+stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20duration=3000&pause=1000&color=BC83F7&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Computer+Science+Student+;I'm+a+Full+stack+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently a 3rd year Computer Science Student<br>
