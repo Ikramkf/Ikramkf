@@ -15,6 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IkramKf&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=IkramKf&label=Visiting&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ikramkf&label=Visiting&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
