@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20duration=3000&pause=1000&color=BC83F7&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Computer+Science+Student+;I'm+a+Full+stack+Developer)](https://git.io/typing-svg)
-
 # 💫 About Me:
 🔭 I’m currently a 3rd year Computer Science Student<br>
 
@@ -18,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=IkramKf&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IkramKf&icon=2&color=6)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=IkramKf&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
